@@ -1,0 +1,32 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "target": "es5",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react",
+    "baseUrl": "./",                       /* 用于解析非绝对模块名称的基本目录 */
+    "paths": {
+      "*": ["sdk/*", "src/*", "./*"],
+      "src": ["src"],
+      "mobx":["node_modules/mobx/*"]
+    },
+  },
+  "include": [
+    "src"
+  ]
+}
