@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/buildstatic/css/main.fab91be3.chunk.css",
-    "main.js": "/buildstatic/js/main.8d2a463a.chunk.js",
-    "main.js.map": "/buildstatic/js/main.8d2a463a.chunk.js.map",
-    "runtime-main.js": "/buildstatic/js/runtime-main.841a8d38.js",
-    "runtime-main.js.map": "/buildstatic/js/runtime-main.841a8d38.js.map",
-    "static/css/2.5dad54a6.chunk.css": "/buildstatic/css/2.5dad54a6.chunk.css",
-    "static/js/2.d04d0835.chunk.js": "/buildstatic/js/2.d04d0835.chunk.js",
-    "static/js/2.d04d0835.chunk.js.map": "/buildstatic/js/2.d04d0835.chunk.js.map",
-    "index.html": "/buildindex.html",
-    "precache-manifest.b0558e477aa3aca724029c9fac0d8cd8.js": "/buildprecache-manifest.b0558e477aa3aca724029c9fac0d8cd8.js",
-    "service-worker.js": "/buildservice-worker.js",
-    "static/css/2.5dad54a6.chunk.css.map": "/buildstatic/css/2.5dad54a6.chunk.css.map",
-    "static/css/main.fab91be3.chunk.css.map": "/buildstatic/css/main.fab91be3.chunk.css.map",
-    "static/js/2.d04d0835.chunk.js.LICENSE.txt": "/buildstatic/js/2.d04d0835.chunk.js.LICENSE.txt"
+    "main.css": "/drag-system/buildstatic/css/main.fab91be3.chunk.css",
+    "main.js": "/drag-system/buildstatic/js/main.2095d7aa.chunk.js",
+    "main.js.map": "/drag-system/buildstatic/js/main.2095d7aa.chunk.js.map",
+    "runtime-main.js": "/drag-system/buildstatic/js/runtime-main.7e09b7ff.js",
+    "runtime-main.js.map": "/drag-system/buildstatic/js/runtime-main.7e09b7ff.js.map",
+    "static/css/2.5dad54a6.chunk.css": "/drag-system/buildstatic/css/2.5dad54a6.chunk.css",
+    "static/js/2.96a4f919.chunk.js": "/drag-system/buildstatic/js/2.96a4f919.chunk.js",
+    "static/js/2.96a4f919.chunk.js.map": "/drag-system/buildstatic/js/2.96a4f919.chunk.js.map",
+    "index.html": "/drag-system/buildindex.html",
+    "precache-manifest.93dc95301f73ca0f6f5db5db3df93548.js": "/drag-system/buildprecache-manifest.93dc95301f73ca0f6f5db5db3df93548.js",
+    "service-worker.js": "/drag-system/buildservice-worker.js",
+    "static/css/2.5dad54a6.chunk.css.map": "/drag-system/buildstatic/css/2.5dad54a6.chunk.css.map",
+    "static/css/main.fab91be3.chunk.css.map": "/drag-system/buildstatic/css/main.fab91be3.chunk.css.map",
+    "static/js/2.96a4f919.chunk.js.LICENSE.txt": "/drag-system/buildstatic/js/2.96a4f919.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.841a8d38.js",
+    "static/js/runtime-main.7e09b7ff.js",
     "static/css/2.5dad54a6.chunk.css",
-    "static/js/2.d04d0835.chunk.js",
+    "static/js/2.96a4f919.chunk.js",
     "static/css/main.fab91be3.chunk.css",
-    "static/js/main.8d2a463a.chunk.js"
+    "static/js/main.2095d7aa.chunk.js"
   ]
 }

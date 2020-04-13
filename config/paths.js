@@ -64,7 +64,7 @@ module.exports = {
   testsSetup: resolveModule(resolveApp, 'src/setupTests'),
   proxySetup: resolveApp('src/setupProxy.js'),
   appNodeModules: resolveApp('src'),
-  publicUrlOrPath:'/build',
+  publicUrlOrPath:path.resolve('/drag-system/build/')
 };
 
 
