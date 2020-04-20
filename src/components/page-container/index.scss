@@ -1,11 +1,12 @@
-.sys-page-container{
+.sys-page-container {
     position: relative;
-    margin-left:150px;
-    width:375px;
-    background-color:#ffffff;
+    margin: 0 auto;
+    width: 375px;
+    background-color: #ffffff;
     overflow: scroll;
 }
-.sys-placeholder{
+
+.sys-placeholder {
     position: relative;
     display: flex;
     height: 135px;
@@ -14,15 +15,16 @@
     justify-content: center;
     align-items: center;
     font-size: 16px;
-    color: rgba(0,0,0,.85);
-    &::after{
+    color: rgba(0, 0, 0, .85);
+
+    &::after {
         content: '';
         position: absolute;
         top: 8px;
         right: 8px;
         bottom: 8px;
         left: 8px;
-        border: 1px dashed rgba(0,0,0,.85);
+        border: 1px dashed rgba(0, 0, 0, .85);
         border-radius: 4px;
     }
 }

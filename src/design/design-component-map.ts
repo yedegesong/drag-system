@@ -5,7 +5,7 @@ interface Config {
   [propName: string]: React.ReactNode;
 }
 
-const designComponentMap:Config= {
+const designComponentMap: Config = {
   'design/carousel': Carousel,
   'design/nav': Nav,
 }

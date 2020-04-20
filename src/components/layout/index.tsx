@@ -5,7 +5,7 @@ import './index.scss';
 const Layout = () => {
   return (
     <div className="sys-layout">
-      <Header/>
+      <Header />
       <Content />
     </div>
   );

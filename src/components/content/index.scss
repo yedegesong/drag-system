@@ -1,10 +1,16 @@
-.sys-content{
+.sys-content {
     display: flex;
-    flex:1;
+    flex: 1;
     overflow: scroll;
 }
-.sys-left{
-    width:262px;
-    background-color:#ffffff;
+
+.sys-left {
+    width: 262px;
+    background-color: #ffffff;
     overflow: scroll;
+}
+
+.sys-center {
+    flex: 1;
+    display: flex;
 }
